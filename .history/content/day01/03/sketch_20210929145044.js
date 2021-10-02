@@ -1,0 +1,17 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background('black');
+  
+for(let i = 0; i <10; i++) {
+  ellipse(56*i, 46, 55, 55);
+
+}
+ 
+
+
+
+
+}
